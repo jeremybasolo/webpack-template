@@ -1,0 +1,19 @@
+// ********************************************************
+// INCLUDE MAIN DEPENDENCIES
+// ********************************************************
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i');
+
+$fa-font-path: "~font-awesome/fonts" !default;
+@import "~font-awesome/scss/font-awesome.scss";
+
+$icon-font-path: "~bootstrap-sass/assets/fonts/bootstrap/" !default;
+@import "bootstrap/custom_variables";
+@import "bootstrap/custom_bootstrap";
+
+
+
+// ********************************************************
+// CUSTOM STYLES
+// ********************************************************
+
