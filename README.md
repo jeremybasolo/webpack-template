@@ -1,5 +1,5 @@
-# webpack-template
-A basic webpack setup to implement in a new project, including Bootstrap sass and FontAwesome.
+# Webpack Template
+A basic webpack setup to implement in a new project. It includes Bootstrap sass and FontAwesome.
 
 ## Usage
 
@@ -16,7 +16,7 @@ To install and use, you can run the below:
 
 ## Implementation
 
-To implement in your project, copy the right files (postcss.config.js, webpack.config.js, package.json, library) and start using. You will have to read the manifest file to get the version hashes. Look at the readManifest function at the top of the **index.php** for an example.
+To implement in your project, copy the right files (postcss.config.js, webpack.config.js, package.json, library) and start using. You will have to read the manifest file to get the version hashes. Look at the readManifest function at the top of the **index.php** file for an example.
 
 ## Notes
 
